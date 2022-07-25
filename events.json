@@ -1,0 +1,41 @@
+{
+  "event": [
+    {
+      "id": "1",
+      "event_name": "Wedding Events",
+      "event_image": "https://www.fnp.com/assets/images/custom/team-images/weddings-images/gallery/9.jpg",
+      "event_description": "A wedding planner is a professional who assists with the design, planning and management of a client's wedding. Weddings are significant events in people's lives and as such, couples are often willing to spend considerable amount of money to ensure that their weddings are well-organized."
+    },
+    {
+      "id": "2",
+      "event_name": "Wedding Events",
+      "event_image": "https://easyeventplanning.com/wp-content/uploads/2020/11/Affordable-Anniversary-Party.jpg",
+      "event_description": "A wedding planner is a professional who assists with the design, planning and management of a client's wedding. Weddings are significant events in people's lives and as such, couples are often willing to spend considerable amount of money to ensure that their weddings are well-organized."
+    },
+    {
+      "id": "3",
+      "event_name": "Annual Function",
+      "event_image": "http://rajevents.in/wp-content/uploads/2018/12/indus_2014_04-Copy.jpg",
+      "event_description": "A wedding planner is a professional who assists with the design, planning and management of a client's wedding. Weddings are significant events in people's lives and as such, couples are often willing to spend considerable amount of money to ensure that their weddings are well-organized."
+    },
+    {
+      "id": "4",
+      "event_name": "Christmas Events",
+      "event_image": "https://files.sysers.com/cp/upload/tneventspc/gallery/full/Event-Specialist-for-Christmas-Party.jpg",
+      "event_description": "A wedding planner is a professional who assists with the design, planning and management of a client's wedding. Weddings are significant events in people's lives and as such, couples are often willing to spend considerable amount of money to ensure that their weddings are well-organized."
+    },
+    {
+      "id": "5",
+      "event_name": "Award Function",
+      "event_image": "https://kaaliaevents.com/wp-content/uploads/2017/01/Verve-Awards-Ceremonies-1.jpg",
+      "event_description": "A wedding planner is a professional who assists with the design, planning and management of a client's wedding. Weddings are significant events in people's lives and as such, couples are often willing to spend considerable amount of money to ensure that their weddings are well-organized."
+    },
+    {
+      "id": "6",
+      "event_name": "Startups Events",
+      "event_image": "https://www.shoutlo.com/uploads/articles/header-img-startup-events-in-india-to-follow.jpeg",
+      "event_description": "A wedding planner is a professional who assists with the design, planning and management of a client's wedding. Weddings are significant events in people's lives and as such, couples are often willing to spend considerable amount of money to ensure that their weddings are well-organized."
+    }
+    
+  ]
+}

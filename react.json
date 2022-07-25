@@ -1,0 +1,25 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "name": "Aman",
+      "email": "john@walkingtree.tech",
+      "password": "123456",
+      "mobile": "8953214785"
+    },
+    {
+      "name": "Peter",
+      "email": "peter@gmail.com",
+      "mobile": "8563214785",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "Mark",
+      "email": "Mark@gmail.com",
+      "mobile": "8965321478",
+      "password": "789123",
+      "id": 3
+    }
+  ]
+}

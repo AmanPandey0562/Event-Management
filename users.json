@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Peter",
+      "username": "Bret",
+      "email": "peter@gmail.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "9615648690",
+      "website": "hildegard.org",
+      "event": "Wedding Function"
+    },
+    {
+      "id": 2,
+      "name": "Rajat",
+      "username": "Sharma",
+      "email": "rajat@gmail.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "8952348957",
+      "website": "hildegard.org",
+      "event": "Birthday Party"
+    },
+    {
+      "id": 3,
+      "name": "Shivam",
+      "username": "Sharma",
+      "email": "shivam@gmail.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "8952378954",
+      "website": "hildegard.org",
+      "event": "Annual Function"
+    },
+    {
+      "id": 4,
+      "name": "Aman",
+      "username": "Pandey",
+      "email": "aman@gmail.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "8952369877",
+      "website": "hildegard.org",
+      "event": "Annual Function"
+    },
+    {
+      "id": 5,
+      "name": "Keven",
+      "username": "Peterson",
+      "email": "keven@gmail.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "8074412563",
+      "website": "hildegard.org",
+      "event": "College Function"
+    }
+  ]
+}
